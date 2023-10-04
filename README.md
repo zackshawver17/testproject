@@ -1,5 +1,3 @@
-# testproject
-
 ### CSCE 331 Section 901 - Project 2 Group 01p
 
 **Group Members: Blake Avery, David Herring, Erik Achtermann, Jack Couture, Zack Shawver**
