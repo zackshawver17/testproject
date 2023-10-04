@@ -3,6 +3,7 @@
 ### Overview
 
 **CSCE 331 Section 901 - Project 2 Group 01p**
+
 **Group Members: Blake Avery, David Herring, Erik Achtermann, Jack Couture, Zack Shawver**
 
 This project presents a POS system solution designed for YiFang Tea, a boba tea chain. The need at hand is an efficient and user-friendly 
